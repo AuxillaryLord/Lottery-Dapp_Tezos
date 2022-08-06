@@ -8,3 +8,7 @@ Temple Wallet extension would be needed to sign the transactions in the browser 
 The project runs on Jakartanet <br>
 
 It's smart Contract is written in SmartPy
+
+
+https://user-images.githubusercontent.com/89778127/183239847-f3773a23-a6ac-4c63-ac79-5a26debaea8a.mp4
+
